@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606749322 source:c:\users\arjun\desktop\cgminiproject\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	"environment.h"
+	"plane.h"
+
+1606747849 c:\users\arjun\desktop\cgminiproject\environment.h
+
+1606747925 c:\users\arjun\desktop\cgminiproject\plane.h
+

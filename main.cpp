@@ -429,7 +429,7 @@ int main(int argc, char *argv[])
 
     glutIdleFunc(idle);
 
-    PlaySound("avengers.wav", NULL, SND_ASYNC|SND_FILENAME|SND_LOOP);
+    //PlaySound("avengers.wav", NULL, SND_ASYNC|SND_FILENAME|SND_LOOP); //Add your music file
 
     glClearColor(0.79,0.91,0.97,1);
 
